@@ -1,2 +1,3 @@
 # imdb-clone
-This website contains complete design and functionality of imdb
+This website is a look a like of imdb and consist several faetures that are present in orginal one.
+
